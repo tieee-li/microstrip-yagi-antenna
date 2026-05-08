@@ -176,10 +176,7 @@ for f in freqs:
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
 
-## 👨‍💻 Author
 
-**李仁钦** | 南京信息工程大学 · 电子信息工程  
-毕业设计项目：铁路移动通信系统中微带八木天线设计
 
 ---
 
